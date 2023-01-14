@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Data Scientist
 # your company information
 company:
   name: Example Co.
@@ -26,11 +26,11 @@ summary: 'I am a passionate software engineer with x years of working experience
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "julian@julianwiley.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/julianwileymac"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -38,7 +38,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/julian-wiley-8377b5175"
 
 - name: Twitter
   icon: "fab fa-twitter"
