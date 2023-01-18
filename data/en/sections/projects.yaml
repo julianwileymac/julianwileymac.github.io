@@ -21,6 +21,31 @@ buttons:
 
 # your projects
 projects:
+- name: Predicting Economic Recessions
+  logo: /images/sections/projects/kubernetes.png
+  role: Data Scientist 
+  timeline: "November 2022 - December 2022"
+  repo: https://github.com/julianwileymac/CSCI-E-89-Deep-Learning-Final-Project
+  summary: Final Project for CSCI E-89 Deep Learning
+  tags: ["school", "harvard", "time_series", "machine_learning"]
+
+- name: Intraday Stock Analysis with R
+  logo: /images/sections/projects/kubernetes.png
+  role: Author
+  timeline: "November 2022 - December 2022"
+  repo: https://github.com/julianwileymac/CSCI-E116-Intraday-Stock-Forecasting
+  summary:  Final Project for CSCI E-116 Dynamic Modeling and Forecasting in Big Data
+  tags: ["School","time_series","machine_learning"]
+
+- name: Machine Learning for Trading
+  logo: 
+  role: Principal Developer
+  timeline: "June 2022 - January 2023"
+  repo: https://github.com/julianwileymac/CSCI-E116-Intraday-Stock-Forecasting
+  summary: 
+  tags: []
+
+
 - name: Kubernetes
   logo: /images/sections/projects/kubernetes.png
   role: Contributor
@@ -37,7 +62,7 @@ projects:
   repo: https://github.com/tensorflow/tensorflow
   #url: ""
   summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  tags: ["professional", "machine_learning"]
 
 - name: AlgoSeek Example Notebooks
   logo: /images/sections/projects/algoseek_logo
@@ -46,7 +71,7 @@ projects:
   repo: https://github.com/algoseekgit/JupyterSamples
   summary: "Example Notebooks Using AlgoSeek Proprietary Data for ML Research in Quant Finance"
   tags: ['professional','machine-learning']
-  
+
 
 - name: A sample academic paper
   role: Team Lead
