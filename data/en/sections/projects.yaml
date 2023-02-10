@@ -35,7 +35,7 @@ projects:
   timeline: "November 2022 - December 2022"
   repo: https://github.com/julianwileymac/CSCI-E116-Intraday-Stock-Forecasting
   summary:  Final Project for CSCI E-116 Dynamic Modeling and Forecasting in Big Data
-  tags: ["School","time_series","machine_learning"]
+  tags: ["school","time_series","machine_learning"]
 
 - name: Machine Learning for Trading
   logo: 
@@ -43,8 +43,23 @@ projects:
   timeline: "June 2022 - January 2023"
   repo: https://github.com/julianwileymac/CSCI-E116-Intraday-Stock-Forecasting
   summary: 
-  tags: []
+  tags: [""]
 
+- name: Predicting Star-Up Performance
+  logo: 
+  role: Data Engineer
+  timeline: "Sept 2021 - December 2021"
+  repo: https://github.com/julianwileymac/quant_methods_for_ml_kaggle_final_startup
+  summary: Predicting the Performance of Startups - Final Project for Quantitative Methods for Machine Learning
+  tags: ["school","machine-learning"]
+
+- name: Stock Prediction on AWS EMR 
+  logo:
+  role: Principal Developer
+  timeline: "Oct 2021 - December 2021"
+  repo: https://github.com/julianwileymac/StockPredictionAwsEMR
+  summary: Predicting Stock Returns on AWS Elastic Map Reduce using PySpark
+  tags: ["quant","big-data","spark","machine-learning"]
 
 - name: Kubernetes
   logo: /images/sections/projects/kubernetes.png
@@ -71,7 +86,6 @@ projects:
   repo: https://github.com/algoseekgit/JupyterSamples
   summary: "Example Notebooks Using AlgoSeek Proprietary Data for ML Research in Quant Finance"
   tags: ['professional','machine-learning']
-
 
 - name: A sample academic paper
   role: Team Lead
