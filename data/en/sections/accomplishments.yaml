@@ -11,36 +11,100 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
-  organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+# - name: Linux Foundation System Administrator
+#   timeline: "March 2018 - March 2019"
+#   organization:
+#     name: Linux Foundation
+#     url: https://www.linuxfoundation.org
+#   courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
+#   certificateURL: "https://example.com"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Neural Networks and Deep Learning
+  timeline: ""
   organization:
     name: Coursera
     url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+  courseOverview: This course helps understand the fundamentals of neural networks and 'deep' architectures.
+  certificateURL: "https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2"
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
+- name: Improving Deep Neural Networks - Hyperparameter Tuning, Regularization, and Optimization 
+  timeline: ""
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: This course helps understand fundamental concepts and practical techniques for improving the performance of neural networks with deep architectures
+  certificateURL: "https://coursera.org/share/29cb8758fa5da57d4c1c1237f9736e88"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: Structuring Machine Learning Projects
+  timeline: ""
   organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: This course helps understand the structure of machine learning focused projects. 
+  certificateURL: "https://coursera.org/share/bd82c3c6bad9e1384ff989145c400931"
+
+- name: Convolutional Neural Networks
+  timeline: ""
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: This course introduces covolutional neural networks and covers popular applications such as image recognition, object detections, and neural-style transfer.
+  certificateURL: "https://coursera.org/share/d90faa433600d1ce2dd9fb215ead8e4f"
+
+- name: Sequence Models 
+  timeline: ""
+  organization:
+    name: Coursera 
+    url: https://www.coursera.org
+  courseOverview: This course covers sequence models such as LSTMs and RNNs, as well as the most popular applications for these architectures
+  certificateURL: "https://coursera.org/share/a002bbde0c776b58191c7b5bb097de21"
+
+- name: Industrial IoT on Google Cloud
+  timeline: ""
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: This course covers the use of GCP for industrial IoT applications.
+  certificateURL: "https://coursera.org/share/2f098159019ce4a69d46df7a586f8a60"
+
+- name: Google Cloud Big Data and Machine Learning Fundamentals
+  timeline: ""
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: This course describes the fundamental concepts and services that underpin machine learning and big data solutions on GCP. 
+  certificateURL: "https://coursera.org/share/74e5f478c4ac70bffbee69c4defc6cba"
+
+- name: Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform
+  timeline: ""
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: This course describes using Cloud Dataproc, a GCP managed Hadoop/Spark service, for scalable processing of unstructured data. 
+  certificateURL: "https://coursera.org/share/3f52c509bc9b07c8c65e3d3f73c94fd1"
+
+# - name: Machine Learning
+#   timeline: "Jun 2020 - Jan 2021"
+#   organization:
+#     name: Coursera
+#     url: https://www.coursera.org
+#   courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+#   certificateURL: "https://example.com"
+
+# - name: Grokking the System Design Interview
+#   timeline: "Jan 2018 - Sept 2018"
+#   organization:
+#     name: educative
+#     url: https://www.educative.io
+#   courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
+#   certificateURL: "https://example.com"
+
+# - name: Mastering Multithreading Programming with Go (Golang)
+#   timeline: "Nov 2017 - Mar 2018"
+#   organization:
+#     name: Udemy
+#     url: https://www.udemy.com
+#   courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
+#   certificateURL: "https://example.com"
  
 
