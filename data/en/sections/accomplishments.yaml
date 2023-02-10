@@ -20,7 +20,7 @@ accomplishments:
 #   certificateURL: "https://example.com"
 
 - name: Neural Networks and Deep Learning
-  timeline: ""
+  timeline: "Oct 2018"
   organization:
     name: Coursera
     url: https://www.coursera.org
@@ -28,7 +28,7 @@ accomplishments:
   certificateURL: "https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2"
 
 - name: Improving Deep Neural Networks - Hyperparameter Tuning, Regularization, and Optimization 
-  timeline: ""
+  timeline: "Nov 2018"
   organization:
     name: Coursera
     url: https://www.coursera.org
@@ -36,7 +36,7 @@ accomplishments:
   certificateURL: "https://coursera.org/share/29cb8758fa5da57d4c1c1237f9736e88"
 
 - name: Structuring Machine Learning Projects
-  timeline: ""
+  timeline: "Dec 2018"
   organization:
     name: Coursera
     url: https://www.coursera.org
@@ -44,7 +44,7 @@ accomplishments:
   certificateURL: "https://coursera.org/share/bd82c3c6bad9e1384ff989145c400931"
 
 - name: Convolutional Neural Networks
-  timeline: ""
+  timeline: "June 2019"
   organization:
     name: Coursera
     url: https://www.coursera.org
@@ -52,7 +52,7 @@ accomplishments:
   certificateURL: "https://coursera.org/share/d90faa433600d1ce2dd9fb215ead8e4f"
 
 - name: Sequence Models 
-  timeline: ""
+  timeline: "Jan 2020"
   organization:
     name: Coursera 
     url: https://www.coursera.org
@@ -60,7 +60,7 @@ accomplishments:
   certificateURL: "https://coursera.org/share/a002bbde0c776b58191c7b5bb097de21"
 
 - name: Industrial IoT on Google Cloud
-  timeline: ""
+  timeline: "Jul 2020"
   organization:
     name: Coursera
     url: https://www.coursera.org
@@ -68,7 +68,7 @@ accomplishments:
   certificateURL: "https://coursera.org/share/2f098159019ce4a69d46df7a586f8a60"
 
 - name: Google Cloud Big Data and Machine Learning Fundamentals
-  timeline: ""
+  timeline: "Oct 2019"
   organization:
     name: Coursera
     url: https://www.coursera.org
@@ -76,7 +76,7 @@ accomplishments:
   certificateURL: "https://coursera.org/share/74e5f478c4ac70bffbee69c4defc6cba"
 
 - name: Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform
-  timeline: ""
+  timeline: "Dec 2019"
   organization:
     name: Coursera
     url: https://www.coursera.org
