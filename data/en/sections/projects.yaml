@@ -27,7 +27,7 @@ projects:
   timeline: "November 2022 - December 2022"
   repo: https://github.com/julianwileymac/CSCI-E-89-Deep-Learning-Final-Project
   summary: Final Project for CSCI E-89 Deep Learning
-  tags: ["school", "harvard", "time_series", "machine_learning"]
+  tags: ["academic","school", "harvard", "time_series", "machine_learning"]
 
 - name: Intraday Stock Analysis with R
   logo: /images/sections/projects/kubernetes.png
@@ -35,23 +35,23 @@ projects:
   timeline: "November 2022 - December 2022"
   repo: https://github.com/julianwileymac/CSCI-E116-Intraday-Stock-Forecasting
   summary:  Final Project for CSCI E-116 Dynamic Modeling and Forecasting in Big Data
-  tags: ["school","time_series","machine_learning"]
+  tags: ["academic","school","time_series","machine_learning"]
 
 - name: Machine Learning for Trading
   logo: 
   role: Principal Developer
   timeline: "June 2022 - January 2023"
   repo: https://github.com/julianwileymac/CSCI-E116-Intraday-Stock-Forecasting
-  summary: 
-  tags: [""]
+  summary: Developed Alpha Factors and Machine Learning Models for High-Frequency Trading
+  tags: ["professional","quant","machine-learning"]
 
-- name: Predicting Star-Up Performance
+- name: Predicting Start-Up Performance
   logo: 
   role: Data Engineer
   timeline: "Sept 2021 - December 2021"
   repo: https://github.com/julianwileymac/quant_methods_for_ml_kaggle_final_startup
   summary: Predicting the Performance of Startups - Final Project for Quantitative Methods for Machine Learning
-  tags: ["school","machine-learning"]
+  tags: ["academic","school","machine-learning"]
 
 - name: Stock Prediction on AWS EMR 
   logo:
@@ -59,25 +59,25 @@ projects:
   timeline: "Oct 2021 - December 2021"
   repo: https://github.com/julianwileymac/StockPredictionAwsEMR
   summary: Predicting Stock Returns on AWS Elastic Map Reduce using PySpark
-  tags: ["quant","big-data","spark","machine-learning"]
+  tags: ["professional","quant","big-data","spark","machine-learning"]
 
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+# - name: Kubernetes
+#   logo: /images/sections/projects/kubernetes.png
+#   role: Contributor
+#   timeline: "March 2018 - Present"
+#   repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+#   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+#   summary: Production-Grade Container Scheduling and Management.
+#   tags: ["professional", "kubernetes", "cloud"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine_learning"]
+# - name: Tensorflow
+#   logo: /images/sections/projects/tensorflow.png
+#   role: Developer
+#   timeline: "Jun 2018 - Present"
+#   repo: https://github.com/tensorflow/tensorflow
+#   #url: ""
+#   summary: An Open Source Machine Learning Framework for Everyone.
+#   tags: ["professional", "machine_learning"]
 
 - name: AlgoSeek Example Notebooks
   logo: /images/sections/projects/algoseek_logo
@@ -87,26 +87,26 @@ projects:
   summary: "Example Notebooks Using AlgoSeek Proprietary Data for ML Research in Quant Finance"
   tags: ['professional','machine-learning']
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+# - name: A sample academic paper
+#   role: Team Lead
+#   timeline: "Jan 2017 - Nov 2017"
+#   url: "https://www.example.com"
+#   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+#   tags: ["academic","iot"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+# - name: Nocode
+#   logo: /images/sections/projects/no-code.png
+#   role: Nothing
+#   timeline: "Oct 2019 - Dec 2019"
+#   repo: https://github.com/kelseyhightower/nocode
+#   #url: ""
+#   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+#   tags: ["hobby", "fun"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+# - name: Toha
+#   logo: /images/sections/projects/toha.png
+#   role: Owner
+#   timeline: "Jun 2019 - Present"
+#   repo: https://github.com/hossainemruz/toha
+#   summary: A Hugo theme for personal portfolio.
+#   tags: ["hobby","hugo","theme","professional"]

@@ -10,30 +10,30 @@ section:
 
 # Your experiences
 experiences:
-- company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
-  positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+# - company:
+#     name: Example Co.
+#     url: "https://www.example.com"
+#     location: Dhaka Branch
+#     # company overview
+#     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+#   positions:
+#   - designation: Senior Software Engineer
+#     start: Nov 2019
+#     # don't provide end date if you are currently working there. It will be replaced by "Present"
+#     # end: Dec 2020
+#     # give some points about what was your responsibilities at the company.
+#     responsibilities:
+#     - Design and develop XYZ tool for ABC task
+#     - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+#     - Lead backend team.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+#   - designation: Junior Software Engineer
+#     start: Nov 2017
+#     end: Oct 2019
+#     responsibilities:
+#     - Implement and test xyz feature for abc tool.
+#     - Support client for abc tool.
+#     - Learn k,d,w technology for xyz.
 
 - company:
     name: AlgoSeek LLC.
@@ -45,9 +45,9 @@ experiences:
     start: Feb 2022
     end: Current
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Implement and test xyz feature for abc tool.
-    - Implement and test xyz feature for abc tool.
+    - Built ETL preprocessing pipelines for exploratory data analysis, ML model building, and simulation
+    - Developed custom daily and intraday indicators; backtesting using PySpark and Backtrader
+    - Built various ML models predicting stock returns
 
 - company:
     name: ML4Trading
@@ -55,12 +55,12 @@ experiences:
     location: New York
     overview: Researching Machine Learning Models for High Frequency Trading
   positions:
-  - designation:
+  - designation: Machine Learning Research Intern
     start: June 2022
     end: Jan 2023
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Implement and test xyz feature for abc tool.
+    - Exploring Backtrader, Zipline, and Lean backtesting libraries for daily and intraday strategy development
+    - Built gradient boosted regression and classification models for intraday and daily data
     - Implement and test xyz feature for abc tool.
 
 - company:
@@ -73,48 +73,80 @@ experiences:
     start: Jan 2021
     end: Current
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Implement and test xyz feature for abc tool.
-    - Implement and test xyz feature for abc tool.
+    - Built MLOps platform for trading in Python using open-source libraries and AWS SageMaker using credits from the AWS Activate Program
+    - Managing a $65,000 portfolio
+    - Researching existing literature on alpha research and intraday strategies, translating them into code
+    - Writing python code for data processing, broker-order execution, and algorithmic trading strategies
+    - Formulated and wrote code for 20+ trading strategies and 3 different automated portfolio management algorithms ready to be pushed through the development pipeline. Creating additional strategies
 
 - company:
-    name: Babson CODE (Community of Developers and Entrepreneurs)
+    name: Babson CODE 
     url: "https://www.example.com"
     location: Wellesley, MA
-    overview: CODE
+    overview: Babson CODE (Community of Developers and Entrepreneurs) is a student-run organization dedicated to fostering technical entrepreneurship in the Babson Community.
   positions:
   - designation: Technical Lead
     start: May 2021
     end: May 2022
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Implement and test xyz feature for abc tool.
-    - Implement and test xyz feature for abc tool.
+    - Led multiple technical seminars open to the greater Babson Campus
+    - Mentored younger members, teaching them machine learning and data science topics, assisting them with projects, and helping them find resources on their individual interests.
+    - Consulted with many startups and assisted them in designing cloud-based solutions to solve business challenges
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Alt Bottle
+    url: ""
+    location: Wellesley, MA 
+    overview: Resusable water bottle start-up out of Babson's award-winning Foundations of Management and Entrepreneurship (FME) course 
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: CTO
+    start: Mar 2019
+    end: July 2019
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Designed and deployed company website 
+    - Set up payment systems for online store and POS modules
+    - Set up analytics for website traffic and in-person sales 
+    - Communicated technical analysis conclusions to business audience and translated business goals into technical requirements.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Atlantec Technology Services 
+    url: "https://atlantec.biz"
+    location: Falmouth, ME 
+    overview: IT Services for Small Businesses in Southern Maine
   positions:
   - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+    start: April 2018
+    end: May 2018
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Set-up and shipped server rack for companies in Texas
+    - Troubleshooted technical problems for clients through IT service management portal and remote access
+    
+
+
+# - company:
+#     name: PreExample Co.
+#     url: "https://www.example.com"
+#     location: Nowhere
+#     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+#   positions:
+#   - designation: Software Engineer
+#     start: March 2016
+#     end: May 2017
+#     responsibilities:
+#     - Write lots of example codes.
+#     - Read lots of examples.
+#     - See lots of example videos.
+
+# - company:
+#     name: Intern Counting Company (ICC).
+#     url: "https://www.example.com"
+#     location: Intern Land
+#     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+#   positions:
+#   - designation: Intern
+#     start: Jun 2015
+#     end: Jan 2016
+#     responsibilities:
+#     - Count lost of interns.
+#     - Count more interns.
+#     - Count me as an intern.

@@ -18,19 +18,19 @@ degrees:
     url: "https://www.babson.edu/"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
+    showGrades: false
     collapseAfter: 3
     courses:
-    - name: Data Structures and Algorithm
+    - name: Quantitative Methods for Machine Learning
       achieved: 3.75
       outOf: 4
-    - name: Network Security
+    - name: Cryptography
       achieved: 3.80
       outOf: 4
-    - name: Operating System
+    - name: Quantitative Analysis of Structural Injustice
       achieved: 3.5
       outOf: 4
-    - name: Artificial Intelligent
+    - name: Business Intelligence and Data Analytics
       achieved: 3.75
       outOf: 4
   publications: #(optional)
@@ -39,27 +39,54 @@ degrees:
   - title: Fusce eu augue ut odio porttitor pulvinar.
     url: "#"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
+  - Technical Lead for Babson's Community of Developers and Entrepreneurs
+  - Consulted with E-Tower startups to assist development efforts and troubleshoot technical problems
+  - Served as Lead Developer in small groups working on various academic projects 
+  - Started several start-ups to gain experience working in small teams and developing solutions using a wide variety of technologies
+
+- name: Select Graduate Courses
+  icon: 
+  timeframe: 2021, 2022
   institution:
-    name: MST College of Science
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
+    name: Harvard Extension School
+    url: https://extension.harvard.edu
+  takenCourses:
+    showGrades: false
+    collapseAfter: 3
+    courses:
+    - name: Cryptography and Identity Access Management in Blockchain and Cloud applications
+      achieved: 3.5
+      outOf: 4.0
+    - name: Deep Learning
+      achieved: 3.0
+      outOf: 4.0
+    - name: Dynamic Modeling and Forecasting in Big Data
+      achieved: 2.0
+      outOf: 4.0
+
+
+# - name: Higher Secondary School Certificate
+#   icon: fa-university
+#   timeframe: 2010-2012
+#   institution:
+#     name: MST College of Science
+#     url: "#"
+#   grade: #(optional)
+#     scale: GPA
+#     achieved: 5
+#     outOf: 5
+#   extracurricularActivities: #(optional)
+#   - In vitae facilisis est, eget porta sem.
+#   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+#   - Duis sed massa feugiat, ornare justo et, aliquam est.
+#   - Pellentesque ut fringilla magna.
+
+- name: High School Diploma
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2014-2018
   institution:
-    name: JK School of Science
+    name: Falmouth High School
+  extracurricularActivities:
+  - Worked on school's FIRST robotics team (FRC Team 172) for 4 years on programming, mechanical, and design (leadership) sub-teams.
+  - Mentored students in ZhengZhou, China as part of a FIRST sponsored program to bring FRC to China
+  - Went to FRC World Championship in St. Louis, Missouri

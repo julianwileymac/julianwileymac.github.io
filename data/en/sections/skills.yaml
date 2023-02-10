@@ -16,24 +16,40 @@ skills:
   summary: "Using as main language for development. Capable of writing scalable, testable, and maintainable programs."
   url: "https://python.org"
 
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Financial Instruments
+  logo: /images/sections/skills/prometheus.png
+  summary: "Knowledge of Financial Instruments and Macro/Microeconomics and how they influence the behavior of capital and financial markets."
+  url: "#"
+
+# - name: Kubernetes
+#   logo: /images/sections/skills/kubernetes.png
+#   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+#   url: "https://kubernetes.io/"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  url: ""
+
+- name: GCP
+  logo: /images/sections/skills/linux.png
+  summary: "Experienced designing solutions on Google Cloud Platform. Passed Professional Solutions Architect exam."
+  url: "https://cloud.google.com"
+
+- name: AWS 
+  logo: /images/sections/skills/linux.png
+  summary: "Capable of designing and using AWS solutions to create and maintain data-intensive, cloud-based solutions."
+  url: "https://aws.amazon.com/"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+# - name: Prometheus
+#   logo: /images/sections/skills/prometheus.png
+#   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+#   url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
@@ -47,3 +63,8 @@ skills:
 - name: C++
   logo: /images/sections/skills/c++.png
   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+
+- name: Java
+  logo: /images/sections/skills/cloud.png
+  summary: "Know basic Java programming. Used for building desktop applications and integrating with Java-based tools, such as the AWS Kinesis Producer Library."
+  url: ""
