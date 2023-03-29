@@ -83,9 +83,17 @@ projects:
   logo: /images/sections/projects/algoseek_logo
   role: Team Lead
   timeline: "Mar 2022 - Present"
-  repo: https://github.com/algoseekgit/JupyterSamples
+  repo: https://github.com/AlgoTech-Capital-Management/AlgoSeekNotebooks
   summary: "Example Notebooks Using AlgoSeek Proprietary Data for ML Research in Quant Finance"
   tags: ['professional','machine-learning']
+
+- name: Basic Stock Analysis with PySpark
+  logo: /images/sections/projects/tensorflow.png
+  role: Sole Developer
+  timeline: "Mar 2023 - Present"
+  repo: https://github.com/julianwileymac/Basic-Stock-Analysis-with-PySpark
+  summary: "Basic stock analysis using PySpark"
+  tags: ['personal','big-data','data-engineering']
 
 # - name: A sample academic paper
 #   role: Team Lead
