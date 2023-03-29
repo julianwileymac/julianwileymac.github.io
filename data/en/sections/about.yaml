@@ -40,13 +40,13 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/julian-wiley-8377b5175"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -90,7 +90,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 92
+  percentage: 98
   color: yellow
 
 - type: soft-skill-indicator
@@ -110,7 +110,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Problem Solving
-  percentage: 80
+  percentage: 90
   color: brown
 
 # you can also provide color code instead of the color name

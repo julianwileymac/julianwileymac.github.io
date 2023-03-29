@@ -7,9 +7,9 @@ image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "julian@julianwiley.com"
-  phone: "+0123456789"
+  # phone: "+0123456789"
   github: julianwileymac
-  linkedin: johndoe
+  linkedin: julian-wiley
 
 # some summary about what you do
 summary:
