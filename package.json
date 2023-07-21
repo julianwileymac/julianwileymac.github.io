@@ -28,7 +28,6 @@
     "flag-icon-css": "^4.1.7",
     "fuse.js": "^6.6.2",
     "highlight.js": "^11.6.0",
-    "hugo": "^0.0.3",
     "imagesloaded": "^5.0.0",
     "ityped": "^1.0.3",
     "katex": "^0.16.3",
@@ -37,6 +36,7 @@
     "plyr": "^3.7.2",
     "popper.js": "^1.16.1"
   },
+  "devDependencies": {},
   "name": "hugo-toha.github.io",
   "version": "0.1.0"
 }
