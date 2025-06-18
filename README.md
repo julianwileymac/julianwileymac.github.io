@@ -1,4 +1,6 @@
-Welcome to the [Repository Name] GitHub repository! This repository houses the complete codebase and resources for our web application, built with a powerful and modern tech stack including Hugo, Go (Golang), and Node.js. This README provides a comprehensive overview of the project, its structure, how to set it up, and how to contribute.
+# Julian Wiley's Portfolio 
+Welcome to the [Repository Name] GitHub repository! 
+This repository houses the complete codebase and resources for our web application, built with a powerful and modern tech stack including Hugo, Go (Golang), and Node.js. This README provides a comprehensive overview of the project, its structure, how to set it up, and how to contribute.
 
 Table of Contents
 About This Project
@@ -12,7 +14,8 @@ Deployment
 Contributing
 License
 Contact
-About This Project
+
+## About This Project
 This web application serves as [A brief, high-level description of what the web app is and its primary purpose. Focus on its value proposition or core functionality.].
 
 For example:
@@ -26,7 +29,7 @@ For example:
 
 "to provide a fast, secure, and easily maintainable content delivery system."
 "to demonstrate modern web development practices with a focus on performance and scalability."
-Tech Stack
+## Tech Stack
 This project leverages a robust set of technologies to deliver a fast, efficient, and maintainable web experience:
 
 Hugo: Our static site generator, powering the lightning-fast front-end content. Hugo is written in Go, offering incredible build speeds and flexibility for content management.
@@ -35,7 +38,7 @@ Node.js: Utilized for [Describe where Node.js is used – e.g., front-end toolin
 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+## Prerequisites
 Before you begin, ensure you have the following software installed on your system:
 
 Git: For cloning the repository.
@@ -46,7 +49,8 @@ Node.js & npm: Version [Node.js Version, e.g., 18.x+]
 Download Node.js (npm is included with Node.js installation)
 Hugo: Version [Hugo Version, e.g., Extended v0.100.0+]
 Install Hugo (Ensure you install the Extended version for full functionality, especially for SASS/SCSS support if used).
-Installation
+
+##Installation
 Clone the repository:
 
 Bash
@@ -70,7 +74,7 @@ If your Hugo site uses specific themes or modules that need initialization or up
 
 Bash
 
-# Example: If your theme is a Git submodule
+** Example: If your theme is a Git submodule **
 git submodule update --init --recursive
 Or if you're using Hugo Modules:
 
@@ -91,10 +95,10 @@ If you have a Go-based API or service, you'll need to run it. This might be in a
 
 Bash
 
-# Example: If your main Go application is in a 'backend' directory
+** Example: If your main Go application is in a 'backend' directory **
 cd backend
 go run main.go
-# Or, if you've built an executable
+** Or, if you've built an executable **
 ./[your-go-app-executable]
 The Go service will typically run on a different port, e.g., http://localhost:8080.
 
@@ -103,9 +107,9 @@ For front-end asset compilation (e.g., CSS preprocessing, JavaScript bundling), 
 
 Bash
 
-# Example: A script to watch for changes and recompile assets
+** Example: A script to watch for changes and recompile assets **
 npm run dev # Or 'npm run watch', 'npm start', etc. Check your package.json
-Project Structure
+## Project Structure
 Understanding the repository's layout will help you navigate the codebase efficiently.
 
 .
@@ -134,7 +138,7 @@ Understanding the repository's layout will help you navigate the codebase effici
 ├── Dockerfile                       # Docker: Containerization definition
 ├── README.md                        # This file!
 └── [other_root_files]               # Other project-specific files (e.g., LICENSE, CONTRIBUTING.md)
-Deployment
+## Deployment
 This section outlines the steps or services used to deploy the web application.
 
 [Describe your deployment strategy here. This could range from simple manual steps to automated CI/CD pipelines.]
@@ -161,7 +165,7 @@ For manual deployments or specific environments, follow these steps:
 3.  **Deploy compiled assets/binaries to [Hosting Platform/Server details].**
 
 [**Add any specific environment variables or configuration considerations for deployment.**]
-Contributing
+## Contributing
 We welcome contributions to this project! If you'd like to contribute, please follow these guidelines:
 
 Fork the repository.
@@ -172,10 +176,10 @@ Push your branch to your forked repository.
 Open a Pull Request to the main branch of this repository, describing your changes in detail.
 Please ensure your code adheres to the existing coding style and includes relevant tests if applicable.
 
-License
+## License
 This project is licensed under the [License Name, e.g., MIT License, Apache 2.0 License] - see the LICENSE file for details.
 
-Contact
+## Contact
 If you have any questions, feedback, or suggestions, feel free to reach out:
 
 [Your Name/Team Name] - [Your Email Address or Contact Form Link]
