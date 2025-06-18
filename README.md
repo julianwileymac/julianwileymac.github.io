@@ -55,32 +55,32 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/[YourGitHubUsername]/[RepositoryName].git
-cd [RepositoryName]
+`git clone https://github.com/[YourGitHubUsername]/[RepositoryName].git`
+`cd [RepositoryName]`
 Install Node.js dependencies:
 Navigate to the root of the repository and install all necessary Node.js packages. These are typically used for front-end asset compilation, styling, or other development tools.
 
 Bash
 
-npm install
+`npm install`
 Install Go dependencies:
 If your Go application components have external dependencies, you'll need to fetch them.
 
 Bash
 
-go mod tidy
+`go mod tidy`
 Hugo Setup (if required for themes/modules):
 If your Hugo site uses specific themes or modules that need initialization or updates, you might need to run:
 
 Bash
 
 ** Example: If your theme is a Git submodule **
-git submodule update --init --recursive
+`git submodule update --init --recursive`
 Or if you're using Hugo Modules:
 
 Bash
 
-hugo mod tidy
+`hugo mod tidy`
 Running the Application
 This project involves different components that might need to be run concurrently or in sequence.
 
@@ -89,15 +89,15 @@ This will serve the static content of your website, typically accessible at http
 
 Bash
 
-hugo server
+`hugo server`
 Start the Go Backend Service (if applicable):
 If you have a Go-based API or service, you'll need to run it. This might be in a separate terminal.
 
 Bash
 
 ** Example: If your main Go application is in a 'backend' directory **
-cd backend
-go run main.go
+`cd backend`
+`go run main.go`
 ** Or, if you've built an executable **
 ./[your-go-app-executable]
 The Go service will typically run on a different port, e.g., http://localhost:8080.
@@ -108,7 +108,7 @@ For front-end asset compilation (e.g., CSS preprocessing, JavaScript bundling), 
 Bash
 
 ** Example: A script to watch for changes and recompile assets **
-npm run dev # Or 'npm run watch', 'npm start', etc. Check your package.json
+`npm run dev` # Or 'npm run watch', 'npm start', etc. Check your package.json
 ## Project Structure
 Understanding the repository's layout will help you navigate the codebase efficiently.
 
